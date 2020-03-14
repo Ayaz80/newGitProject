@@ -2,3 +2,5 @@ horse
 cow
 dog
 cat
+lion
+tiger
